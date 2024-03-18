@@ -4,6 +4,6 @@ const myObject = {
     "obnoxious property": function() {
       // do stuff!
     }
-  };
-  
-console.log("Hellooooo!")
+  }; 
+
+console.log("index.js running!")
